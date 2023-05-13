@@ -107,6 +107,10 @@ const Nav = () => {
             <ListItem button component={Link} to="/hollywood">
               <ListItemText primary="Hollywood" />
             </ListItem>
+            <ListItem button component={Link} to="/umovie">
+              <ListItemText primary="Git" />
+            </ListItem>
+
           </List>
         )}
       </Toolbar>
