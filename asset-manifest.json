@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/umovie/static/css/main.4237d4eb.css",
+    "main.js": "/umovie/static/js/main.37881a31.js",
+    "index.html": "/umovie/index.html",
+    "main.4237d4eb.css.map": "/umovie/static/css/main.4237d4eb.css.map",
+    "main.37881a31.js.map": "/umovie/static/js/main.37881a31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4237d4eb.css",
+    "static/js/main.37881a31.js"
+  ]
+}
