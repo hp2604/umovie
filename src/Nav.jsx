@@ -98,7 +98,7 @@ const Nav = () => {
         </Drawer>
         {!open && (
           <List sx={{ display: { xs: 'none', sm: 'none', md: 'flex' } }}>
-            <ListItem button component={Link} to="/umovies">
+            <ListItem button component={Link} to="/umovie">
               <ListItemText primary="Home" />
             </ListItem>
             <ListItem button component={Link} to="/bollywood">

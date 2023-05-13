@@ -16,7 +16,7 @@ function App(){
         <Nav/>
         <br />
         <Routes>
-            <Route exact path='/' Component={Home}/> 
+            <Route exact path='/umovie' Component={Home}/> 
             <Route exact path="/hollywood" Component={Hollywood}/>
             <Route exact path="/bollywood" Component={Bollywood}/>
         </Routes>
